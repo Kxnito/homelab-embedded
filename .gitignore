@@ -1,0 +1,19 @@
+# STM32CubeIDE build artifacts
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.bin
+*.map
+*.lst
+
+# IDE files
+.settings/
+.cproject
+.project
+
+# Secrets
+*.token
+*.key
+*.env
